@@ -2,7 +2,7 @@
 
 Name:       rubygem-%{oname}
 Version:    0.0.1
-Release:    %mkrel 1
+Release:    2
 Summary:    OAuth strategies for OmniAuth
 Group:      Development/Ruby
 License:    MIT
